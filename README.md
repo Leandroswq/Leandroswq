@@ -21,3 +21,9 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 </div>
+
+<h2 align="center"> How to reach me </h2>
+<div align="center"> 
+  <a href="mailto:leandrobonfim15@hotmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="redux" width="130" height="30"/> </a> 	
+  <a href="https://www.linkedin.com/in/leandro-de-souza-bonfim/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="redux" width="130" height="30"/> </a> 
+</div>
