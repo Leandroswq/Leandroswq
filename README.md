@@ -1,15 +1,15 @@
-# Hi, I'm Leandro Bonfim
+<h1 align="center"> Hi, I'm Leandro Bonfim </h1>
 
-## Stats and Most Used Languages
+<h2 align="center"> Stats and Most Used Languages </h2>
 
 <div align="center">
   <a href="https://github.com/Leandroswq">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandroswq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandroswq&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Leandroswq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandroswq&layout=compact&langs_count=7&theme=dark"/>
 	</a>
 </div>
 
-<div>
+<div align="center">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a></a> 
