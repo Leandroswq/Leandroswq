@@ -2,7 +2,7 @@
 
 * 🔭 Sou desenvolvedor web fullstack junior
 
-* 🧠 Minhas stacks favoritas são: nodejs, express, react, mocha
+* 🧠 Minhas stacks favoritas são: nodejs, express, react, mocha-chai
 
 <h2 align="left"> Estatisticas e lingagens mais usadas </h2>
 
