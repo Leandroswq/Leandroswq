@@ -1,6 +1,8 @@
-<h1 align="center"> Hi, I'm Leandro Bonfim </h1>
+<h1 align="left"> Ola! Meu nome é Leandro Bonfim </h1>
 
-<h2 align="center"> Stats and Most Used Languages </h2>
+* 🔭 Sou desenvolvedor web fullstack junior
+
+<h2 align="left"> Estatisticas e lingagens mais usadas </h2>
 
 <div align="center">
   <a href="https://github.com/Leandroswq">
@@ -22,7 +24,7 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 </div>
 
-<h2 align="center"> How to reach me </h2>
+<h2 align="center"> Contatos </h2>
 <div align="center"> 
   <a href="mailto:leandrobonfim15@hotmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="redux" width="130" height="30"/> </a> 	
   <a href="https://www.linkedin.com/in/leandro-de-souza-bonfim/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="redux" width="130" height="30"/> </a> 
