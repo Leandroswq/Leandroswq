@@ -1,29 +1,25 @@
 <h1 align="left"> Ola! Meu nome é Leandro Bonfim </h1>
 
-* 🔭 Sou um desenvolvedor web back-end que também possui conhecimentos em front end (React)
+~~~javascript
 
-* 🧠 Minhas principais stacks são: 
-  - TypeScript
-  - JavaScript
-  - Nodejs
-  - Express.js
-  - Sequelize
-  - Docker
-  - Programação Orientada a Objetos
-  - Arquitetura MSC
-
-* :pencil2: Outras stacks que possuo conhecimento:
-  - Testes Unitarios
-    - Mocha
-    - Chai
-    - Sinon
-    - jest
-  - Heroku
-  - Swagger (Ferramenta que auxilia na criação de documentação de APIs)
-  - React 
-  - Redux toolkit
-  - Css
-
+const aboutMe =  {
+  pronomes: "Ele" | "Dele",
+  openToWork: True,
+  code: ["JavaScript", "Node.js", "TypeScript", "HTML, "CSS"],
+  tecnologias:{
+    principais:{
+      descrição: "Tecnologias que eu me sinto mais confortavel em trabalhar",
+      js: ["Express", "Sequelize", "Jest", "Mocha", "Chai", "Sinon", "Swagger"],
+      outras: ["Docker", POO, "Arquitetura MSC"],
+    },
+    secundarias:{
+      descrição: "Tecnologias que eu possuo algum conhecimento",
+      js: ["React", "Redux", "Redux toolkit"],
+      outras: ["HTML", "CSS", "Heroku"]
+    }
+  }
+}
+~~~
 <h2 align="left"> Estatisticas e lingagens mais usadas </h2>
 
 <div align="center">
