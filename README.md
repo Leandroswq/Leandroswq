@@ -20,6 +20,13 @@ const aboutMe =  {
   }
 }
 ~~~
+
+<h2 align="left"> Contatos </h2>
+
+Linkedin: https://www.linkedin.com/in/leandro-de-souza-bonfim/
+
+Email: leandrobonfim15@hotmail.com
+
 <h2 align="left"> Estatisticas e lingagens mais usadas </h2>
 
 <div align="center">
@@ -31,8 +38,5 @@ const aboutMe =  {
   </a>
 </div>
 
-<h2 align="center"> Contatos </h2>
-
-Linkedin: https://www.linkedin.com/in/leandro-de-souza-bonfim/
 
 ![snake gif](https://github.com/Leandroswq/Leandroswq/blob/output/github-contribution-grid-snake.svg)
