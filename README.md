@@ -46,9 +46,9 @@ Email: leandrobonfim15@hotmail.com
 <div align="center">
 
   <a href="https://github.com/Leandroswq">
-  <img height="180em" width="45%" display="block" src="https://github-readme-stats.vercel.app/api?username=Leandroswq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="190px" width="500px" display="block" src="https://github-readme-stats.vercel.app/api?username=Leandroswq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandroswq&layout=compact&langs_count=7&theme=dark"/>
+  <img height="190px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandroswq&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
