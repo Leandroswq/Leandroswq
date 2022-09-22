@@ -1,10 +1,24 @@
 <h1 align="left"> Ola! Meu nome é Leandro Bonfim </h1>
 
+## Sobre mim
+
 ~~~javascript
 
 const aboutMe =  {
+  nome: "Leandro",
   pronomes: "Ele" | "Dele",
   openToWork: True,
+  localização: {
+    pais: "Brasil",
+    estado: "Goiás",
+    cidade: "Goiânia"
+  }
+}
+~~~
+## Tecnologias que eu possuo conhecimento
+
+~~~javascript
+{
   code: ["JavaScript", "Node.js", "TypeScript", "HTML, "CSS"],
   tecnologias:{
     principais:{
@@ -17,9 +31,9 @@ const aboutMe =  {
       js: ["React", "Redux", "Redux toolkit"],
       outras: ["HTML", "CSS", "Heroku"]
     }
-  }
 }
 ~~~
+
 
 <h2 align="left"> Contatos </h2>
 
@@ -32,7 +46,7 @@ Email: leandrobonfim15@hotmail.com
 <div align="center">
 
   <a href="https://github.com/Leandroswq">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Leandroswq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" display="block" src="https://github-readme-stats.vercel.app/api?username=Leandroswq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandroswq&layout=compact&langs_count=7&theme=dark"/>
   </a>
