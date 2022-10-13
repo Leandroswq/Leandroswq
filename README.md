@@ -23,7 +23,7 @@ const aboutMe =  {
   tecnologias:{
     principais:{
       descrição: "Tecnologias que eu me sinto mais confortavel em trabalhar",
-      js: ["Express", "Sequelize", "Jest", "Mocha", "Chai", "Sinon", "Swagger", MongoDB],
+      js: ["Express", "Sequelize", "Jest", "Mocha", "Chai", "Sinon", "Swagger", "MongoDB"],
       outras: ["Docker", POO, "Arquitetura MSC"],
     },
     secundarias:{
