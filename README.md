@@ -1,4 +1,4 @@
-<h1 align="left"> Ola! Meu nome é Leandro Bonfim </h1>
+<h1 align="left"> Ola! Meu nome é Leandro de Souza Bonfim </h1>
 
 ## Sobre mim
 
